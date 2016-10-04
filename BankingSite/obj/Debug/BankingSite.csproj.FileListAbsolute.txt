@@ -35,3 +35,40 @@ C:\Users\gstan\Downloads\automated-aspdotnet-mvc\1-automated-aspdotnet-mvc-m1-ex
 C:\Users\gstan\Downloads\automated-aspdotnet-mvc\1-automated-aspdotnet-mvc-m1-exercise-files\after\BankingSite\BankingSite\obj\Debug\BankingSite.dll
 C:\Users\gstan\Downloads\automated-aspdotnet-mvc\1-automated-aspdotnet-mvc-m1-exercise-files\after\BankingSite\BankingSite\obj\Debug\BankingSite.pdb
 C:\Users\gstan\Downloads\automated-aspdotnet-mvc\1-automated-aspdotnet-mvc-m1-exercise-files\after\BankingSite\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\BankingSite.dll.config
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\BankingSite.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\BankingSite.pdb
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Antlr3.Runtime.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\EntityFramework.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\EntityFramework.SqlServer.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Newtonsoft.Json.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Ninject.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Ninject.Web.Common.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Ninject.Web.Mvc.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Helpers.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Mvc.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Optimization.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Razor.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.WebPages.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\WebActivatorEx.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\WebGrease.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\EntityFramework.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\EntityFramework.SqlServer.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Ninject.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Ninject.Web.Common.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Ninject.Web.Mvc.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Helpers.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Mvc.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Optimization.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.Razor.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.WebPages.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Antlr3.Runtime.pdb
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\bin\Newtonsoft.Json.xml
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\obj\Debug\BankingSite.dll
+C:\Users\gstan\Documents\Visual Studio 2015\Projects\BankingSite\magda_georgi\BankingSite\obj\Debug\BankingSite.pdb
